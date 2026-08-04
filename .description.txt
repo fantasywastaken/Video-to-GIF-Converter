@@ -1,1 +1,0 @@
-A high-quality video-to-GIF converter that wraps ffmpeg with a two-pass, palette-optimized pipeline for crisp, compact GIFs. Auto-detects ffmpeg, previews the input's duration, and streams a live progress bar parsed from ffmpeg's stderr.
